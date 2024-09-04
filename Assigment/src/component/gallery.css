@@ -1,4 +1,4 @@
-/* Add this in your CSS file */
+
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 .combined-shadow {
@@ -10,10 +10,7 @@
   }
 
   .your-class {
-    /* Linear Gradient Background */
     background: linear-gradient(to bottom, rgba(48, 52, 57, 1), rgba(22, 23, 24, 1));
-  
-    /* First Drop Shadow */
     box-shadow: 4px 5px 5px 5px rgba(16, 18, 10, 0.5),
                 -5px -3px 30px -10px rgba(150, 190, 231, 1);
   }
